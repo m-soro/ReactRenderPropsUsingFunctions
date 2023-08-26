@@ -5,9 +5,6 @@
  * ---------------------------------------------------------
  * USE FUNCTIONS TO DISPLAY THE RIGHT DATA AT THE RIGHT TIME
  * ---------------------------------------------------------
- * Example of GraphQL
- * Snowtooth - A real GraphQL API for a fake ski resort
- * @link https://snowtooth.moonhighway.com/
  */
 
 import "./App.css";
